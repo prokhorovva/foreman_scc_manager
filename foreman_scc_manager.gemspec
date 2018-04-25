@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rubocop', '~> 0.49.0'
   s.add_development_dependency 'rdoc', '~> 4'
 
-  s.add_dependency 'foreman-tasks', '~> 0.10.0'
+  s.add_dependency 'foreman-tasks', '~> 0.10'
 end
